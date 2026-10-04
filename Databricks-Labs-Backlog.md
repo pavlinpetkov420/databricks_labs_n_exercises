@@ -13,7 +13,7 @@
 |---|---|---|---|---|---|
 | LAB-01 | Build the workspace foundation | Foundation | 8, 7 | 30 min | [Y] |
 | LAB-02 | Create a file landing zone from sample data | Foundation | 2 | 30 min | [Y] |
-| LAB-03 | Auto Loader ingestion with schema evolution | Ingestion | 1, 2 | 40 min | [ ] |
+| LAB-03 | Auto Loader ingestion with schema evolution | Ingestion | 1, 2 | 40 min | [Y] |
 | LAB-04 | Streaming table vs materialized view showdown | Pipelines | 1 | 40 min | [ ] |
 | LAB-05 | Refresh semantics & the reset guardrail | Pipelines | 1 | 30 min | [ ] |
 | LAB-06 | Data quality: expectations and quarantine | Quality | 3, 1 | 40 min | [ ] |
